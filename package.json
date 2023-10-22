@@ -1,0 +1,16 @@
+{
+  "name": "serverless-webpack-offline-reload",
+  "version": "1.0.1",
+  "description": "serverless plugin to support webpack reloading in serverless-offline",
+  "main": "index.js",
+  "keywords": [
+    "serverless",
+    "serverless-plugin",
+    "serverless-offline",
+    "serverless-webpack"
+  ],
+  "repository": "thetrevdev/serverless-webpack-offline-reload",
+  "homepage": "https://github.com/thetrevdev/serverless-webpack-offline-reload",
+  "author": "thetrevdev",
+  "license": "MIT"
+}

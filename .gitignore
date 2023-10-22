@@ -1,0 +1,22 @@
+
+# node.js
+
+coverage
+dist
+node_modules
+
+# python
+*.pyc
+
+# serverless
+.serverless
+.serverless-offline
+
+# Logs
+logs
+*.log
+
+npm-debug.log*
+
+# IntelliJ
+.idea
